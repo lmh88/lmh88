@@ -13,6 +13,8 @@ import (
 func main() {
 	//cmd.Main.AddCommand(&cmd.Test)
 	//cmd.Main.Run(gctx.New())
+	
+	///////////
 	Mymain()
 }
 
